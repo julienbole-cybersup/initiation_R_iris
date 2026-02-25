@@ -158,7 +158,3 @@ ggplot(iris, aes(x = Sepal.Length, y = Petal.Length, color = Species, shape = Sp
 | Outliers | Quelques points atypiques (ex. Sepal.Width), impact limité. |
 | Séparation | Setosa bien séparée ; versicolor et virginica partiellement chevauchantes. |
 | Classification | Variables les plus discriminantes : **Petal.Length**, **Petal.Width**. |
-
----
-
-*Rapport généré avec R Markdown. Code et graphiques produits avec R et ggplot2.*
